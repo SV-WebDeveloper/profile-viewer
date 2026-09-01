@@ -29,6 +29,7 @@ body{
 
 /** profile-head **/
 .head{
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -57,7 +58,7 @@ body{
 }
 
 .settings{
-  font-size: clamp(16px, 5vw, 42px);
+  font-size: clamp(16px, 5vw, 28px);
 }
 
 .profile-header h1{
